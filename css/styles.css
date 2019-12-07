@@ -39,6 +39,7 @@ p {
     text-align: left;
 }
 
+/*Feature section*/
 #features {
     position: relative;
 }
@@ -151,7 +152,7 @@ p {
 
 /*Footer section*/
 
-#footer .container-fluid .footer-icon {
+.footer-icon {
     margin: 3% 1.2%;
 }
 
